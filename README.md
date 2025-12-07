@@ -356,9 +356,9 @@ POST /payments/mpesa/callback
 ### **🆘 Getting Help**
 - 📧 **Email**: mwakidenice@gmail.com
 - 💬 **Discord**: [Join our community](https://discord.gg/digitalhub)
-- 📱 **WhatsApp**: +254790767347
+- 📱 **WhatsApp**: +254798750585
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mwakidenis/Kuza-Skills-Platform)
-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+- **Appreciating...**[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
   
 ---
 
