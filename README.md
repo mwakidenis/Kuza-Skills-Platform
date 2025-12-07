@@ -358,8 +358,8 @@ POST /payments/mpesa/callback
 - 💬 **Discord**: [Join our community](https://discord.gg/digitalhub)
 - 📱 **WhatsApp**: +254790767347
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mwakidenis/Kuza-Skills-Platform)
-
-
+- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+  
 ---
 
 ## 📄 License
@@ -388,8 +388,6 @@ Built with ❤️ for African youth, by **Mwaki Denis**, to bridge the digital d
 **[🌟 Star this repo](https://github.com/mwakidenis/Kuza-Skills-Platform)** • **[🍴 Fork it](https://github.com/mwakidenis/repo/Kuza-Skills-Platform)** • **[📖 Read the docs](https://docs.digitalhub.africa)**
 
 ---
-##
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
 
 **Made with 💚 in Kenya 🇰🇪 | Empowering Africa 🌍 | Building the Future 🚀**
 
